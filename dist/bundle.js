@@ -1,0 +1,1 @@
+(()=>{var r,e={644:r=>{r.exports="Hello"}},t={};r=function r(o){var p=t[o];if(void 0!==p)return p.exports;var s=t[o]={exports:{}};return e[o](s,s.exports,r),s.exports}(644),alert(r)})();
