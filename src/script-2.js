@@ -1,1 +1,3 @@
-module.exports = "Hello";
+const mssg = "Hello";
+
+module.exports = mssg;
