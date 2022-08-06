@@ -1,11 +1,22 @@
 {
-  "name": "work-station",
+  "name": "webpack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekOfProgramming/webpack.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekOfProgramming/webpack/issues"
+  },
+  "homepage": "https://github.com/GeekOfProgramming/webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0"
+  }
 }
