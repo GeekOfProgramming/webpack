@@ -6,11 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "webpack"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GeekOfProgramming/webpack.git"
   },
-  "author": "",
+  "author": "geekofprogramming",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GeekOfProgramming/webpack/issues"
